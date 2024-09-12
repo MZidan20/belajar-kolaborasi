@@ -1,2 +1,2 @@
-# belajar-kolaborasi-new
-belajar baru memakai github
+# belajar-kolaborasi-new-branch
+belajar baru biodata angkatan 2018
