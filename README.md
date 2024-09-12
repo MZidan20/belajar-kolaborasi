@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar baru branch
+belajar baru memakai git
