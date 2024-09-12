@@ -1,2 +1,2 @@
-# belajar-kolaborasi
-belajar baru memakai git
+# belajar-kolaborasi-new
+belajar baru memakai github
