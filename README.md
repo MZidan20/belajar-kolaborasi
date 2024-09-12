@@ -1,2 +1,2 @@
 # belajar-kolaborasi-new-branch
-belajar baru biodata
+belajar baru biodata angkatan
